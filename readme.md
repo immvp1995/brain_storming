@@ -1,4 +1,4 @@
-Brainstorming
+**Brainstorming**
 
 1. MealPlaner
   - Eingeben, ob man Vegetarier oder vegan ist
